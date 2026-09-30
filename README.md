@@ -4,7 +4,7 @@ DunHero의 영어 원문을 기준으로 게임 내 텍스트를 한국어로 �
 
 ## 패치 정보
 
-- 패치 버전: 1.0.3
+- 패치 버전: 1.0.4
 - 지원 Steam App ID: 2270210
 - 지원 Steam Build ID: 24862149
 - 배포 파일: `DunHero-Korean-v1.0.3.zip`
